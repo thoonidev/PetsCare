@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 3cf9ca21-12e3-4200-9903-b6c43881d756</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Veterinario</_name>
+			<_modifiedTimeWeak type="a">7.2.2025::4:18:37</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Diagrama de Arquitectura de An%E1lisis</_hname>
+					<_hid type="a">GUID 15dd066d-8b12-4281-bac3-c90ac3338833</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.2.2025::4:18:37</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.2.2025::4:18:37</weakCGTime>
+			<strongCGTime type="a">7.2.2025::4:18:37</strongCGTime>
+			<_defaultComposite type="s">GUID 147a48ef-a42c-4c0a-a671-f83a7d27913f</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">7.2.2025::4:17:52</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID e4c1135e-6917-4ee5-8a8c-c490bd8ff3ed</value>
+				<value>GUID 8338dde2-93ae-4f53-9b75-99edc76f2bd6</value>
+				<value>GUID 147a48ef-a42c-4c0a-a671-f83a7d27913f</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID e4c1135e-6917-4ee5-8a8c-c490bd8ff3ed</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Receta</_name>
+			<_modifiedTimeWeak type="a">7.2.2025::4:18:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.2.2025::4:18:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Receta.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Maestra</_hsubsystem>
+					<_hname type="a">Receta</_hname>
+					<_hid type="a">GUID 1f5fd752-ac53-4dd3-84a8-27562b4bbc13</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 3cf9ca21-12e3-4200-9903-b6c43881d756</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 8338dde2-93ae-4f53-9b75-99edc76f2bd6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">ConsultaClinica</_name>
+			<_modifiedTimeWeak type="a">7.2.2025::4:18:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.2.2025::4:18:37</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\ConsultaClinica.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Maestra</_hsubsystem>
+					<_hname type="a">ConsultaClinica</_hname>
+					<_hid type="a">GUID c5faf82e-29bc-4254-a092-65ccc38040c9</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 3cf9ca21-12e3-4200-9903-b6c43881d756</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 147a48ef-a42c-4c0a-a671-f83a7d27913f</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

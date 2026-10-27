@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0</version>
+	<lang>C++</lang>
+	<BuildNo>202402122040</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 65ef65be-3729-428a-8ca5-19be1ae5c7ac</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Suministrar_productos</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::5:46:37</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Diagrama de Arquitectura de An%E1lisis</_hname>
+					<_hid type="a">GUID 15dd066d-8b12-4281-bac3-c90ac3338833</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::5:50:34</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::5:46:37</weakCGTime>
+			<strongCGTime type="a">6.13.2019::5:46:37</strongCGTime>
+			<_defaultComposite type="s">GUID c4611902-81ca-4319-ad38-00ac8a655b20</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID c4611902-81ca-4319-ad38-00ac8a655b20</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID c4611902-81ca-4319-ad38-00ac8a655b20</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

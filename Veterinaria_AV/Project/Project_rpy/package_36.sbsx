@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 55cdf7a9-5d23-4981-9e33-f74948cc5936</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">package_36</_name>
+			<_modifiedTimeWeak type="a">6.20.2020::7:12:10</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Cita.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Cita</_hsubsystem>
+					<_hname type="a">DCA_CUS1_RegistrarCita</_hname>
+					<_hid type="a">GUID f50a0e0d-4dc0-4c50-b186-31017d1029fb</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.20.2020::7:15:10</_modifiedTime>
+			<weakCGTime type="a">6.20.2020::7:12:10</weakCGTime>
+			<strongCGTime type="a">6.20.2020::7:12:10</strongCGTime>
+			<_defaultComposite type="s">GUID 3657fb7d-ae3f-44d3-abd7-233546489adf</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 3657fb7d-ae3f-44d3-abd7-233546489adf</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 3657fb7d-ae3f-44d3-abd7-233546489adf</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
